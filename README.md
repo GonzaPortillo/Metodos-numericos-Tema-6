@@ -6,7 +6,7 @@
 3. [Implementación en Java](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#implementación-en-java)
    * [Euler](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#euler-1)
    * [Runge Kutta]
-   * [Taylor]
+   * [Taylor](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#taylor-1)
 5. [Problemas](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#problemas)
 6. [Resultados de compilación]
 7. [Conclusión]
