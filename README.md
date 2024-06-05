@@ -20,6 +20,9 @@ Algunos de los algoritmos que veremos son:
 ## Algroitmos
 
 ### Euler
+#### Formula
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/222f07fa-4e45-4e9a-9aca-80f490488f1a)
+
 1. Definir la ecuación diferencial de primer orden que se desea resolver: dy/dx = f(x, y).
 2. Especificar el punto inicial (x0, y0).
 3. Especificar el tamaño del paso h.
@@ -27,6 +30,9 @@ Algunos de los algoritmos que veremos son:
 5. Repetir el paso 4 hasta alcanzar el punto final deseado.
 
 ### Runge Kutta
+#### Formula
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/8bbc811f-ca20-4216-8bd0-2c8a603291d1)
+
 1. Definir la ecuación diferencial de primer orden que se desea resolver: dy/dx = f(x, y).
 2. Especificar el punto inicial (x0, y0).
 3. Especificar el tamaño del paso h.
@@ -34,6 +40,9 @@ Algunos de los algoritmos que veremos son:
 5. Repetir el paso 4 hasta alcanzar el punto final deseado.
 
 ### Taylor
+#### Formula
+![Aproximacion-de-Taylor_editado](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/69a98991-917b-4491-89c8-1649c6fd0b6b)
+
 1. Definir la ecuación diferencial de primer orden que se desea resolver: dy/dx = f(x, y).
 2. Especificar el punto inicial (x0, y0).
 3. Calcular las derivadas de la función f(x, y) con respecto a y en el punto inicial.
