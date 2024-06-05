@@ -4,7 +4,7 @@
 1. [Introduccion](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#introduccion)
 2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#algroitmos)
 3. [Implementación en Java](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#implementación-en-java)
-   * [Euler]
+   * [Euler](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#euler-1)
    * [Runge Kutta]
    * [Taylor]
 5. [Problemas](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#problemas)
