@@ -189,12 +189,18 @@ Algunos de los algoritmos que veremos son:
 
 ## Problemas 
 
-Las siguientes ecuaciones diferenciales son resueltas con la implementacion de los 3 algoritmos. Podras encontrar todos los codigos [aqui](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/tree/main/Euler)
+Las siguientes ecuaciones diferenciales son resueltas con la implementacion de los 3 algoritmos. 
 
 ![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/3c07e1c2-065f-4bca-82f9-4e5317c421b6)
 
+A continuacion podras encontrar los t codigos para los 3 metodos
+
+* [Euler](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/tree/main/Euler)
+* [Runge Kutta](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/tree/main/Runge%20Kutta)
+* [Taylor](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/tree/main/Taylor)
+
 ## Resultados de compilación
-### Ecuacion diferencial a resuelta
+### Ecuacion diferencial resuelta
 ![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/231fd2e9-e55d-46c5-b028-41763d78af74)
 
 ### Euler
