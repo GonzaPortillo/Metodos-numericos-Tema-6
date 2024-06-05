@@ -189,7 +189,7 @@ Algunos de los algoritmos que veremos son:
 
 ## Problemas 
 
-Las siguientes ecuaciones diferenciales son resueltas con la implementacion de los 3 algoritmos. Podras encontrar todos los codigos [aqui]
+Las siguientes ecuaciones diferenciales son resueltas con la implementacion de los 3 algoritmos. Podras encontrar todos los codigos [aqui](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/tree/main/Euler)
 
 ![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/3c07e1c2-065f-4bca-82f9-4e5317c421b6)
 
