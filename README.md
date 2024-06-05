@@ -1,7 +1,7 @@
 # Solución de Ecuaciones Diferenciales
 
 ## INDICE
-1. Introduccion
+1. [Introduccion](/blob/main/README.md#introduccion)
 2. Algoritmos
 3. Codigo en Java
 4. Resultados de compilación
@@ -188,6 +188,9 @@ Algunos de los algoritmos que veremos son:
     }
 
 ## Resultados de compilación
+### Ecuacion diferencial a resuelta
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/231fd2e9-e55d-46c5-b028-41763d78af74)
+
 ### Euler
 
 ![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/7dbf39c2-1625-4fbc-97e1-399d67d9f9a7)
