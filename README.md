@@ -8,7 +8,7 @@
    * [Runge Kutta](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#runge-kutta-1)
    * [Taylor](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#taylor-1)
 5. [Problemas](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#problemas)
-6. [Resultados de compilación]
+6. [Resultados de compilación](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#resultados-de-compilación)
 7. [Conclusión]
 
 ## Introduccion
