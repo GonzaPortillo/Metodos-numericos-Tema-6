@@ -4,8 +4,9 @@
 1. Introduccion
 2. Algoritmos
 3. Codigo en Java
-4. Resultados de compilación
-5. Conclusion
+4. Problemas
+5. Resultados de compilación
+6. Conclusion
 
 ## Introduccion
 La solución de ecuaciones diferenciales en métodos numéricos se refiere a la implementación de técnicas computacionales para encontrar soluciones aproximadas a ecuaciones diferenciales, ya sean ordinarias o parciales, cuando no es posible obtener una solución analítica cerrada.
@@ -193,7 +194,7 @@ Las siguientes ecuaciones diferenciales son resueltas con la implementacion de l
 
 ![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/3c07e1c2-065f-4bca-82f9-4e5317c421b6)
 
-A continuacion podras encontrar los t codigos para los 3 metodos
+A continuacion podras encontrar los 5 codigos para cada uno de los 3 metodos
 
 * [Euler](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/tree/main/Euler)
 * [Runge Kutta](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/tree/main/Runge%20Kutta)
