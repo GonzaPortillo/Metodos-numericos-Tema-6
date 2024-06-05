@@ -1,7 +1,7 @@
 # Solución de Ecuaciones Diferenciales
 
 ## INDICE
-1. [Introduccion](/blob/main/README.md#introduccion)
+1. Introduccion
 2. Algoritmos
 3. Codigo en Java
 4. Resultados de compilación
@@ -186,6 +186,12 @@ Algunos de los algoritmos que veremos son:
             metodoTaylor(x0, y0, h, n);
         }
     }
+
+## Problemas 
+
+Las siguientes ecuaciones diferenciales son resueltas con la implementacion de los 3 algoritmos. Podras encontrar todos los codigos [aqui]
+
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/3c07e1c2-065f-4bca-82f9-4e5317c421b6)
 
 ## Resultados de compilación
 ### Ecuacion diferencial a resuelta
