@@ -9,7 +9,7 @@
    * [Taylor](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#taylor-1)
 5. [Problemas](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#problemas)
 6. [Resultados de compilación](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#resultados-de-compilación)
-7. [Conclusión]
+7. [Conclusión](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#resultados-de-compilación)
 
 ## Introduccion
 La solución de ecuaciones diferenciales en métodos numéricos se refiere a la implementación de técnicas computacionales para encontrar soluciones aproximadas a ecuaciones diferenciales, ya sean ordinarias o parciales, cuando no es posible obtener una solución analítica cerrada.
