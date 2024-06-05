@@ -1,12 +1,11 @@
 # Solución de Ecuaciones Diferenciales
 
 ## INDICE
-1. Indice
-2. Intro
-3. Algoritmos
-4. Codigo en Java
-5. Resultados de compilación
-6. Conclusion
+1. Introduccion
+2. Algoritmos
+3. Codigo en Java
+4. Resultados de compilación
+5. Conclusion
 
 ## Introduccion
 La solución de ecuaciones diferenciales en métodos numéricos se refiere a la implementación de técnicas computacionales para encontrar soluciones aproximadas a ecuaciones diferenciales, ya sean ordinarias o parciales, cuando no es posible obtener una solución analítica cerrada.
@@ -49,7 +48,10 @@ Algunos de los algoritmos que veremos son:
 4. Utilizar la serie de Taylor para aproximar la solución de la ecuación diferencial en los puntos sucesivos.
 5. Repetir el paso 4 hasta alcanzar el punto final deseado.
 
-## Codigo en Java
+## Implementación en Java
+### Ecuacion diferencial a resolver
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/231fd2e9-e55d-46c5-b028-41763d78af74)
+
 ### Euler
 
     public class MetodoEuler {
