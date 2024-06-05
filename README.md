@@ -3,7 +3,7 @@
 ## INDICE
 1. [Introduccion](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#introduccion)
 2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#algroitmos)
-3. [Codigo en Java]
+3. [Implementación en Java](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#implementación-en-java)
 4. [Problemas]
 5. [Resultados de compilación]
 6. [Conclusión]
