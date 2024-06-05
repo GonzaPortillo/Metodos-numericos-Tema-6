@@ -2,11 +2,11 @@
 
 ## INDICE
 1. [Introduccion](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#introduccion)
-2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#introduccion)
-3. Codigo en Java
-4. Problemas
-5. Resultados de compilación
-6. Conclusion
+2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/blob/main/README.md#algroitmos)
+3. [Codigo en Java]
+4. [Problemas]
+5. [Resultados de compilación]
+6. [Conclusión]
 
 ## Introduccion
 La solución de ecuaciones diferenciales en métodos numéricos se refiere a la implementación de técnicas computacionales para encontrar soluciones aproximadas a ecuaciones diferenciales, ya sean ordinarias o parciales, cuando no es posible obtener una solución analítica cerrada.
@@ -216,6 +216,6 @@ A continuacion podras encontrar los 5 codigos para cada uno de los 3 metodos
 
 ![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6/assets/160778946/9e6a689d-f4c8-4a42-a75b-6b638c8e836d)
 
-## Conclusion
+## Conclusión
 
 La solución de ecuaciones diferenciales mediante métodos numéricos es una parte integral de los métodos numéricos y es esencial para abordar problemas en ciencia, ingeniería y matemáticas donde las soluciones analíticas no son factibles. Las ecuaciones diferenciales se dividen en dos categorías principales: ordinarias (EDO) y parciales (EDP), y ambos tipos requieren enfoques específicos para su resolución numérica.
